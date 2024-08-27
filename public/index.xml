@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>squirtle.eu - Pokémon GO Information</title>
-    <link>http://localhost:64913/</link>
+    <link>http://squirtle.eu/</link>
     <description>Recent content on squirtle.eu - Pokémon GO Information</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Panther</copyright>
-    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64913/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://squirtle.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Big Event Details</title>
-      <link>http://localhost:64913/posts/1724765679556-go-big-event-details/</link>
+      <link>http://squirtle.eu/posts/1724765679556-go-big-event-details/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:64913/posts/1724765679556-go-big-event-details/</guid>
+      <guid>http://squirtle.eu/posts/1724765679556-go-big-event-details/</guid>
       <description>Pokémon GO: GO Big with Dynamax Pokémon in New Max Battles!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64913/posts/1724765679556-go-big-event-details/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://squirtle.eu/posts/1724765679556-go-big-event-details/featured.png" />
     </item>
     
     <item>
       <title>Max Out! GBL Season Update</title>
-      <link>http://localhost:64913/posts/1724765066899-max-out-gbl-season-update/</link>
+      <link>http://squirtle.eu/posts/1724765066899-max-out-gbl-season-update/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:64913/posts/1724765066899-max-out-gbl-season-update/</guid>
+      <guid>http://squirtle.eu/posts/1724765066899-max-out-gbl-season-update/</guid>
       <description>Pokémon GO: GO Battle League - Max Out Update #Event Overview #Trainers, get ready for the GO Battle League: Max Out event, starting Tuesday, September 3, 2024, at 1:00 p.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64913/posts/1724765066899-max-out-gbl-season-update/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://squirtle.eu/posts/1724765066899-max-out-gbl-season-update/featured.png" />
     </item>
     
     <item>
       <title>Max Out! Season Update</title>
-      <link>http://localhost:64913/posts/1724764738008-max-out-season-update/</link>
+      <link>http://squirtle.eu/posts/1724764738008-max-out-season-update/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:64913/posts/1724764738008-max-out-season-update/</guid>
+      <guid>http://squirtle.eu/posts/1724764738008-max-out-season-update/</guid>
       <description>Pokémon GO: Galar Region Event Guide #Event Overview #Get ready to GO all out with the latest Pokémon GO event featuring Pokémon first discovered in the Galar region!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64913/posts/1724764738008-max-out-season-update/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://squirtle.eu/posts/1724764738008-max-out-season-update/featured.png" />
     </item>
     
   </channel>
