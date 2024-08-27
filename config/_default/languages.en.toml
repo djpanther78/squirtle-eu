@@ -1,0 +1,15 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "squirtle.eu - Pokémon GO Information"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "SquirtleServices Logo.jpg"
+
+[author]
+name = "Panther"
+bio = "Hey, I am Panther. One of the people over at the redaction of squirtle.eu. I always try my best to put new events on the site as soon as possible."

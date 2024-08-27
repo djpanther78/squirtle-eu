@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Discord"
+url = "https://discord.gg/sqs"
+identifier = "JckgziNV4r"
+weight = 9999
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "LfNfFjerYS"
+weight = 9999
+
+[[footer]]
+none = "none"

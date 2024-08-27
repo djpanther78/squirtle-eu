@@ -1,0 +1,4 @@
+baseURL = 'http://squirtle.eu/'
+languageCode = 'en-us'
+title = 'squirtle.eu - Pokémon GO Event Information'
+theme = 'blowfish'
